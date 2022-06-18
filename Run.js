@@ -31,3 +31,5 @@ do {
     }
 
 } while (c < alunos.length);
+
+prompt("Pressione ENTER para sair.");
